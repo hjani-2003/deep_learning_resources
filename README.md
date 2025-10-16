@@ -6,3 +6,31 @@ There are countless resources available for learning deep learning, but only a f
 Whether you are just getting started or looking to deepen your understanding, I hope these curated resources guide you in the right direction :)
 
 ## Good Stuff - The videos
+- Neural Networks: Zero to Hero(https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
+- Neural networks(https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
+
+## Awesome Blogs
+- A Recipe for Training Neural Networks (https://karpathy.github.io/2019/04/25/recipe/)
+- Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+- Up-sampling with Transposed Convolution (https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
+- A Guide to Hand-Calculating FLOPs and MACs (https://medium.com/@pashashaik/a-guide-to-hand-calculating-flops-and-macs-fa5221ce5ccc)
+- PyTorch 101: A Practical Guide to Using Hooks (https://medium.com/@heyamit10/pytorch-101-a-practical-guide-to-using-hooks-d64b625f0cc7)
+
+
+## Papers :)
+
+### Medical Image Analysis
+- U-Net: Convolutional Networks for Biomedical Image Segmentation (https://arxiv.org/pdf/1505.04597)
+- Transformers for 3D Medical Image Segmentation (https://arxiv.org/pdf/2103.10504)
+- Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images (https://arxiv.org/pdf/2201.01266)
+- Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining (https://arxiv.org/pdf/2402.03302)
+
+### Classic Papers
+- Attention Is All You Need (https://arxiv.org/pdf/1706.03762)
+- Mamba: Linear-Time Sequence Modeling with Selective State Spaces (https://arxiv.org/pdf/2312.00752)
+
+### Visual Models
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (https://arxiv.org/pdf/2010.11929)
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (https://arxiv.org/pdf/2103.14030)
+- Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model (https://arxiv.org/pdf/2401.09417)
+- MambaVision: A Hybrid Mamba-Transformer Vision Backbone (https://arxiv.org/pdf/2407.08083)
