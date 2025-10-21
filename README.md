@@ -1,15 +1,20 @@
 # Deep Learning Resources
-Hello everyone!
 
-There are countless resources available for learning deep learning, but only a few truly stand out. In this repository, I have compiled some of the best materials, including the ones that helped me kickstart my own deep learning journey.
+Hey everyone!
 
-Whether you are just getting started or looking to deepen your understanding, I hope these curated resources guide you in the right direction :)
+This repository contains a structured collection of resources that helped me get started with deep learning, particularly in my research projects.
 
-## Good Stuff - The videos
+If you are beginning your journey in this domain, I hope you find these materials equally helpful and insightful :)
+
+Feel free to share or suggest additional high-quality resources that could benefit others as well.
+
+P.S. I’m still updating this repository whenever I find time :p
+
+## The videos
 - Neural Networks: Zero to Hero(https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
 - Neural networks(https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
 
-## Awesome Blogs
+## Good Blogs
 - A Recipe for Training Neural Networks (https://karpathy.github.io/2019/04/25/recipe/)
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - Up-sampling with Transposed Convolution (https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
@@ -17,7 +22,7 @@ Whether you are just getting started or looking to deepen your understanding, I 
 - PyTorch 101: A Practical Guide to Using Hooks (https://medium.com/@heyamit10/pytorch-101-a-practical-guide-to-using-hooks-d64b625f0cc7)
 
 
-## Papers :)
+## Papers
 
 ### Medical Image Analysis
 - U-Net: Convolutional Networks for Biomedical Image Segmentation (https://arxiv.org/pdf/1505.04597)
