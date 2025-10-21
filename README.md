@@ -8,7 +8,7 @@ If you are beginning your journey in this domain, I hope you find these material
 
 Feel free to share or suggest additional high-quality resources that could benefit others as well.
 
-P.S. I’m still updating this repository whenever I find time :p
+P.S. I am still updating this repository whenever I find time :p
 
 ## Videos
 - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
