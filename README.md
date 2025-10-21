@@ -18,7 +18,7 @@ P.S. I am still updating this repository whenever I find time :p
 ### Basics of LLMs
 - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
 
-## Machine Learning and Computer Vision
+### Machine Learning and Computer Vision
 - Lecture Collection | Convolutional Neural Networks for for Visual Recognition (Spring 2017) (https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - Machine Learning Specialization by Andrew Ng (https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 - Convolutional Neural Networks (Course 4 of the Deep Learning Specialization) (https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
