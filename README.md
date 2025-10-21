@@ -10,9 +10,11 @@ Feel free to share or suggest additional high-quality resources that could benef
 
 P.S. I’m still updating this repository whenever I find time :p
 
-## The videos
-- Neural Networks: Zero to Hero(https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
-- Neural networks(https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
+## Videos
+- Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
+- Neural networks (https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
+- Swin Transformer (https://www.youtube.com/playlist?list=PL9iXGo3xD8jokWaLB8ZHUkjjv5Y_vPQnZ)
+- Make videos about machine learning research papers (https://www.youtube.com/@YannicKilcher/videos) by Yannic Kilcher
 
 ## Good Blogs
 - A Recipe for Training Neural Networks (https://karpathy.github.io/2019/04/25/recipe/)
