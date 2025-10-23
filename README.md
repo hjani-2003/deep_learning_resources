@@ -38,6 +38,11 @@ P.S. I am still updating this repository whenever I find time :p
 ### Understanding your model
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - Up-sampling with Transposed Convolution (https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
+- Zero to Mamba: An intuitive explanation to the Mamba Architecture (https://medium.com/@aiclub.iitm/zero-to-mamba-an-intuitive-explanation-to-the-mamba-architecture-d52265b771ab)
+- Mamba Explained (https://thegradient.pub/mamba-explained/)
+- A Visual Guide to Mamba and State Space Models (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
+- MAMBA and State Space Models Explained (https://athekunal.medium.com/mamba-and-state-space-models-explained-b1bf3cb3bb77)
+- What is a Mamba model? (https://www.ibm.com/think/topics/mamba-model)
 
 ### Training your model
 - A Recipe for Training Neural Networks (https://karpathy.github.io/2019/04/25/recipe/)
