@@ -91,7 +91,7 @@ P.S. I am still updating this repository whenever I find time :p
 
 - Learning Transferable Visual Models From Natural Language Supervision (https://arxiv.org/pdf/2103.00020)
 
-### Reinforcement Learning
+## Reinforcement Learning
 
 - DeepMind x UCL | Introduction to Reinforcement Learning 2015 (2015) (https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
