@@ -42,6 +42,7 @@ P.S. I am still updating this repository whenever I find time :p
 
 ### Understanding your model
 
+- Deconvolution and Checkerboard Artifacts (https://distill.pub/2016/deconv-checkerboard/)
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - Up-sampling with Transposed Convolution (https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
 - Zero to Mamba: An intuitive explanation to the Mamba Architecture (https://medium.com/@aiclub.iitm/zero-to-mamba-an-intuitive-explanation-to-the-mamba-architecture-d52265b771ab)
