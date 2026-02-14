@@ -93,8 +93,32 @@ P.S. I am still updating this repository whenever I find time :p
 
 ## Reinforcement Learning
 
+### Videos
+
 - DeepMind x UCL | Introduction to Reinforcement Learning 2015 (2015) (https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+- Reinforcement Learning - Developing Intelligent Agents (https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+
+### Articles and Others
+
+- Hugging Face Deep Reinforcement Learning Course (https://huggingface.co/learn/deep-rl-course/en/unit0/introduction)
+
+### Books
 
 - Reinforcement Learning: An Introduction (https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 - Algorithms for Reinforcement Learning (https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
+- Deep Q-Learning – Build, Train, and Visualize with PyTorch, Gymnasium, and SB3 (https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3)
+
+- Deep Reinforcement Learning: 0 to 100 (https://towardsdatascience.com/deep-reinforcement-learning-for-dummies/)
+
+- Deep Learning (https://www.deeplearningbook.org/)
+
+- Deep Reinforcement Learning: Pong from Pixels (https://karpathy.github.io/2016/05/31/rl/)
+
+- Welcome to Spinning Up in Deep RL! (https://spinningup.openai.com/en/latest/)
+
+- How to get started with Reinforcement Learning (RL) (https://gordicaleksa.medium.com/how-to-get-started-with-reinforcement-learning-rl-4922fafeaf8c)
+
+- Mathematics for Machine Learning (https://mml-book.github.io/)
